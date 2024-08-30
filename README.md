@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkardarves" alt="omkardarves" /></a> </p>
 
-- 🔭 I’m currently working on [Fastapi JWK Auth](https://github.com/omkardarves/fastapi-jwk-auth)
-
-- 🌱 I’m currently learning **Node.js**
+- 🔭 I’m currently working on [Swagger UI for Frappe Apps](https://github.com/omkardarves/swagger)
 
 - 👨‍💻 All of my projects are available at [https://github.com/omkardarves?tab=repositories](https://github.com/omkardarves?tab=repositories)
 
